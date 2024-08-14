@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35122.118
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SquareOfShapes", "SquareOfShapes.csproj", "{804ACD3F-86A3-414F-B964-ADC9FAE1B74F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestSquareOfShapes", "..\TestSquareOfShapes\TestSquareOfShapes.csproj", "{DDC00DF4-818F-4873-B308-EE93292DEAEC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{804ACD3F-86A3-414F-B964-ADC9FAE1B74F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{804ACD3F-86A3-414F-B964-ADC9FAE1B74F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{804ACD3F-86A3-414F-B964-ADC9FAE1B74F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{804ACD3F-86A3-414F-B964-ADC9FAE1B74F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DDC00DF4-818F-4873-B308-EE93292DEAEC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DDC00DF4-818F-4873-B308-EE93292DEAEC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DDC00DF4-818F-4873-B308-EE93292DEAEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DDC00DF4-818F-4873-B308-EE93292DEAEC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {360319A9-70D9-4C67-91C9-9B43633F7A63}
+	EndGlobalSection
+EndGlobal
